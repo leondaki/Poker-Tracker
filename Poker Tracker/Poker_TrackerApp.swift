@@ -10,7 +10,7 @@ import SwiftUI
 @main
 struct Poker_TrackerApp: App {
     var body: some Scene {
-        WindowGroup {
+         WindowGroup(){
             ContentView()
         }
     }
